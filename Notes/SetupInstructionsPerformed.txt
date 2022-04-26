@@ -1,0 +1,4 @@
+1. Create a personal access token on github specific to the machine you will be using, and save it somewhere safe.
+2. Clone the public repository to that machine using Tortoise Git
+3. Add your contents and commit with proper message..
+4. Push using TortoiseGit. When asked for credentials enter your Github username and generated PAT as password. 
